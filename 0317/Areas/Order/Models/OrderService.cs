@@ -10,6 +10,7 @@ namespace _0317.Areas.Order.Models
         public void InsertOrder(Models.Order order)
         {
 
+
         }
         public Models.Order GetOrderById(String id)
         {
